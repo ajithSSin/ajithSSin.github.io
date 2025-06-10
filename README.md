@@ -17,6 +17,9 @@
 <br>
 HTML, CSS, PYTHON-Basics
 
+<h4>SOFT SKILLS</h4>
+Communication, Teamwork, Problem-solving, Adaptability, Leadership
+
 
 
 

@@ -6,10 +6,17 @@
 - 👀 Innovative Trainee – Blockchain Intern
 <br>
 - 🌱 Motivated and dedicated individual seeking an opportunity in Full-Stack Development.
+<br>
+🎓I have done B.Tech Degree in Information Technology.
 <br> 
 -  📫 How to reach me ...https://www.linkedin.com/in/ajith-ss-8941b216a/
 <br>
 - 😄 Pronouns: ... He/Him
+
+<h4>Technical Skills:</h4>
+<br>
+HTML, CSS, PYTHON-Basics
+
 
 
 

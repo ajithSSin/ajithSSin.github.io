@@ -15,7 +15,7 @@
 <h4>Technical Skills:</h4>
 HTML, CSS, PYTHON-Basics
 
-<h4>SOFT SKILLS</h4>
+<h4>Soft Skills</h4>
   Communication, Teamwork, Problem-solving, Adaptability, Leadership
 
 

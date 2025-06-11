@@ -1,6 +1,5 @@
 # ajithSSin.github.io
 <h4>About Me:</h4>
-<br>
 - 👋 Hi, I’m AJITH SS
 <br>
 - 👀 Innovative Trainee – Blockchain Intern

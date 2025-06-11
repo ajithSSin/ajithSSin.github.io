@@ -17,6 +17,7 @@ HTML, CSS, PYTHON-Basics
 
 <h4>Soft Skills</h4>
   Communication, Teamwork, Problem-solving, Adaptability, Leadership
+  https://github.com/ajithSSin/ajithSSin.github.io/blob/main/python.png
 
 
 

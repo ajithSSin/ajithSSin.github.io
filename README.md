@@ -13,7 +13,6 @@
 - 😄 Pronouns: ... He/Him
 
 <h4>Technical Skills:</h4>
-<br>
 HTML, CSS, PYTHON-Basics
 
 <h4>SOFT SKILLS</h4>

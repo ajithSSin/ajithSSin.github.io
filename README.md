@@ -13,9 +13,10 @@
 - 😄 Pronouns: ... He/Him
 
 <h4>Technical Skills:</h4>
-HTML, CSS, PYTHON-Basics
-<img src="python.png">
-<img src="html_logo.png">
+HTML, CSS, PYTHON
+<img src="python.png" alt="logo" height="100" width="100">
+<img src="html_logo.png" alt="logo" height="100" width="100">
+<img src="css_logo.png" alt="logo" height="100" width="100">
 <h4>Soft Skills</h4>
   Communication, Teamwork, Problem-solving, Adaptability, Leadership
 

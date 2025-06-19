@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/FlowerDemo/train
+val: /content/drive/MyDrive/FlowerDemo/val
+nc: 1
+names: ['Rose']
+
+
